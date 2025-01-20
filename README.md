@@ -1,7 +1,7 @@
 # OMNI
 --------------------------------
 #### Its time smart homes got smart, with omni, accessible AI meets the smart home
-
+![OMNI dashboard](gallery.jpg)
 ### Inspiration
 Smart homes today are fragmented, with various standards, proprietary AI solutions, and cloud-dependent systems that compromise security and privacy. Omni was born out of a desire to simplify the smart home experience, offering seamless integration, robust local control, and cutting-edge features like gesture-based interaction and presence detection. All while prioritizing privacy, security, and reliability.
 
