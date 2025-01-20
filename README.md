@@ -41,9 +41,9 @@ Our team divided responsibilities across hardware integration, AI/ML development
 
 
 ### What we learned
--The importance of designing for scalability and maintainability through microservices, even for edge-based systems.
--How local processing not only improves privacy but also dramatically enhances responsiveness and reliability in smart home applications.
--The power and potential of emerging technologies like Wi-Fi CSI in redefining smart home interactions.
+- The importance of designing for scalability and maintainability through microservices, even for edge-based systems.
+- How local processing not only improves privacy but also dramatically enhances responsiveness and reliability in smart home applications.
+- The power and potential of emerging technologies like Wi-Fi CSI in redefining smart home interactions.
 
 ### What's next for OMNI
 - Expanded CSI Functionality: Develop more advanced applications, including fall detection and behavioral analysis, for safety and wellness monitoring.
